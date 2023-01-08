@@ -1,0 +1,28 @@
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.exe
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.pdb
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.About.resources
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Form1.resources
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Properties.Resources.resources
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.GenerateResource.Cache
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.exe
+C:\Users\NguyeNSang\Desktop\demo\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.pdb
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.exe
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.pdb
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.exe
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.pdb
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.About.resources
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Form1.resources
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Properties.Resources.resources
+C:\Users\NguyeNSang\Downloads\Documents\Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.exe.config
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.exe
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\bin\Debug\8Puzzle.pdb
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.About.resources
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Form1.resources
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\_8Puzzle.Properties.Resources.resources
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.exe
+C:\Users\HP\Downloads\Laptrinh123.com_Bai toan 8 con so\Laptrinh123.com_Bai toan 8 con so\Bai toan 8 con so\8Puzzle_31-12-11\8Puzzle\obj\x86\Debug\8Puzzle.pdb
